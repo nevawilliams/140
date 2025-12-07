@@ -37,7 +37,7 @@ A statistical analysis of short-term injury risk among Major League Baseball pit
 
 While prior injury history was statistically significant across all time windows, effect sizes were consistently small, indicating that historical injury count alone is not a strong standalone predictor of pitcher health. The project highlights the need to incorporate biomechanics, workload metrics, pitch volume, and recovery data for more accurate assessment of short-term injury risk.
 
-[View Full Report](140Fpdf){.btn .btn-primary target="_blank"}
+[View Full Report](140F.pdf){.btn .btn-primary target="_blank"}
 :::
 
 :::
