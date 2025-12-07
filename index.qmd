@@ -10,4 +10,3 @@ Hi! I'm Neva, a UCLA Statistics & Data Science student with a passion for analyt
 
 ::: {style="display:flex; gap:20px; justify-content:center; margin-top:25px;"}
 <img src="i1.png" width="180"/> <img src="i2.png" width="180"/> <img src="i3.png" width="180"/>
-::nvm
