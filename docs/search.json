@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Neva",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Neva, a Statistics & Data Science student at UCLA who’s passionate about applying analytics and operational strategy to the world of football. I thrive in environments where I can blend technical problem-solving with the fast-paced, team-driven nature of sports.\nI love the combination of people, strategy, and data that lives inside college football, and I have spent my entire time as a UCLA student on the UCLA Football staff. Over the past two years, I’ve helped build scheduling systems, supported Pro Day and official visits, analyzed Catapult tracking data, and kept our recruiting and operations machine running behind the scenes. Along the way, I’ve had the chance to work across strength & conditioning, nutrition, compliance, and administration, giving me a full 360° view of how an elite program operates.\nThis past summer, I interned with the NFL Management Council in New York, where I vetted transaction data for the Daily Personnel Notice, helped maintain league-wide competitive balance, and researched hundreds of NCAA rosters for international scouting initiatives. I also helped assemble the league’s Training Camp Directory and proofread official league materials.\nOutside of work, I’m a four-year starter, captain, and team president for UCLA Women’s Club Lacrosse. I manage a $50K budget, lead a 16-person officer team, and help run everything from fundraising to travel — all while competing for national championships (WCLA National Champion 2024!).\nI’m originally from Vermont, moved across the country to chase big goals, and I’m happiest when I’m learning, building something meaningful, or contributing to a team. Whether it’s analyzing athlete performance data, coordinating complex operations, or supporting decision-makers, I love roles where people and analytics intersect."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here are a few projects I’m especially proud of across research, analytics, and coursework.\n\n\nThe Future of College Football: Conference Realignment & Sustainability\nA comprehensive research paper analyzing the economic, academic, legal, and logistical pressures created by modern conference realignment. Our team examined media-rights incentives, the collapse of the Pac-12, student-athlete academic burdens, Title IX implications, and escalating travel demands for Olympic sports. The paper proposes a bold restructuring model—a standalone FBS “Super League” with centralized media contracts, relegation tiers, and revenue-sharing to stabilize both football and Olympic sports while preserving tradition and competitive balance.\nRead the Paper\n\n\nNFL Management Council Internship Presentation\nA slide deck summarizing my summer 2025 work with the NFL Management Council. This presentation covers transaction auditing, the Daily Personnel Notice workflow, international player identification, training camp directory development, and league–club communication processes.\nDownload Presentation\n\n\nMonte Carlo Methods Assignment (STAT 102C)\nThis assignment explores key techniques in stochastic simulation, including accept–reject sampling, importance sampling, and specialized methods for generating Gamma and Cauchy-related distributions. I derived optimal envelope constants, assessed proposal suitability, and validated theoretical results using Monte Carlo experiments in R. The work combines analytical derivations, handwritten proofs, and computational visualization to compare target and proposal densities, evaluate estimator accuracy, and simulate multivariate normals via transformation methods.\nView Project PDF\n\n\nMLB Pitcher Injury Risk — STAT 140XP Final Report\nA statistical analysis of short-term injury risk among Major League Baseball pitchers. Our team merged MLB performance data with detailed historical injury records to examine whether past injury frequency (cum_occur_dl) predicts future injured-list appearances within 14, 30, and 60 day windows. Using a combined framework of exploratory data analysis, chi-square tests, logistic regression, and Tukey post-hoc comparisons, we evaluated both categorical and continuous models of injury history.\nWhile prior injury history was statistically significant across all time windows, effect sizes were consistently small, indicating that historical injury count alone is not a strong standalone predictor of pitcher health. The project highlights the need to incorporate biomechanics, workload metrics, pitch volume, and recovery data for more accurate assessment of short-term injury risk.\nView Full Report"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "neva140",
+    "title": "Neva Williams",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Neva, a UCLA Statistics & Data Science student with a passion for analytics, operations, and building systems that help teams work smarter.\nView my résumé\n  LinkedIn \n\n   ::nvm"
   }
 ]

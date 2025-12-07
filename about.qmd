@@ -1,9 +1,13 @@
 ---
-title: "About"
+title: "About Neva"
 ---
 
-About this site
+Hi! I'm Neva, a Statistics & Data Science student at UCLA who's passionate about applying analytics and operational strategy to the world of football. I thrive in environments where I can blend technical problem-solving with the fast-paced, team-driven nature of sports.
 
-```{r}
-1 + 1
-```
+I love the combination of people, strategy, and data that lives inside college football, and I have spent my entire time as a UCLA student on the UCLA Football staff. Over the past two years, I've helped build scheduling systems, supported Pro Day and official visits, analyzed Catapult tracking data, and kept our recruiting and operations machine running behind the scenes. Along the way, I've had the chance to work across strength & conditioning, nutrition, compliance, and administration, giving me a full 360° view of how an elite program operates.
+
+This past summer, I interned with the NFL Management Council in New York, where I vetted transaction data for the Daily Personnel Notice, helped maintain league-wide competitive balance, and researched hundreds of NCAA rosters for international scouting initiatives. I also helped assemble the league's Training Camp Directory and proofread official league materials.
+
+Outside of work, I'm a four-year starter, captain, and team president for UCLA Women's Club Lacrosse. I manage a \$50K budget, lead a 16-person officer team, and help run everything from fundraising to travel --- all while competing for national championships (WCLA National Champion 2024!).
+
+I'm originally from Vermont, moved across the country to chase big goals, and I'm happiest when I'm learning, building something meaningful, or contributing to a team. Whether it's analyzing athlete performance data, coordinating complex operations, or supporting decision-makers, I love roles where people and analytics intersect.

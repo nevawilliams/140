@@ -1,11 +1,13 @@
 ---
-title: "neva140"
+title: "Neva Williams"
 ---
 
-This is a Quarto website.
+Hi! I'm Neva, a UCLA Statistics & Data Science student with a passion for analytics, operations, and building systems that help teams work smarter.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[View my résumé](NW_RESUME.pdf){.btn .btn-primary target="_blank"}
 
-```{r}
-1 + 1
-```
+<a href="https://www.linkedin.com/in/neva-williams/" target="_blank" class="btn btn-primary"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="16" style="margin-right:6px; filter: invert(1);"/> LinkedIn </a>
+
+::: {style="display:flex; gap:20px; justify-content:center; margin-top:25px;"}
+<img src="i1.png" width="180"/> <img src="i2.png" width="180"/> <img src="i3.png" width="180"/>
+::nvm

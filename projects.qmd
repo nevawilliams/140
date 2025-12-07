@@ -1,0 +1,43 @@
+---
+title: "My Projects"
+---
+
+Here are a few projects I’m especially proud of across research, analytics, and coursework.
+
+::: {style="display:flex; flex-wrap:wrap; gap:20px; margin-top:1.5rem;"}
+
+::: {style="flex:1 1 260px; background:#f7f3ff; border:1px solid #d2c2ff; padding:18px 20px; border-radius:16px; box-shadow:0 4px 10px rgba(0,0,0,0.03);"}
+### The Future of College Football: Conference Realignment & Sustainability
+
+A comprehensive research paper analyzing the economic, academic, legal, and logistical pressures created by modern conference realignment. Our team examined media-rights incentives, the collapse of the Pac-12, student-athlete academic burdens, Title IX implications, and escalating travel demands for Olympic sports. The paper proposes a bold restructuring model—a standalone FBS “Super League” with centralized media contracts, relegation tiers, and revenue-sharing to stabilize both football and Olympic sports while preserving tradition and competitive balance.
+
+[Read the Paper](180FINAL.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {style="flex:1 1 260px; background:#e9f6ff; border:1px solid #b9ddff; padding:18px 20px; border-radius:16px; box-shadow:0 4px 10px rgba(0,0,0,0.03);"}
+### NFL Management Council Internship Presentation
+
+A slide deck summarizing my summer 2025 work with the NFL Management Council. This presentation covers transaction auditing, the Daily Personnel Notice workflow, international player identification, training camp directory development, and league–club communication processes.
+
+[Download Presentation](NFL2025.pptx){.btn .btn-primary target="_blank"}
+:::
+
+::: {style="flex:1 1 260px; background:#fff6eb; border:1px solid #ffd4a3; padding:18px 20px; border-radius:16px; box-shadow:0 4px 10px rgba(0,0,0,0.03);"}
+### Monte Carlo Methods Assignment (STAT 102C)
+
+This assignment explores key techniques in stochastic simulation, including accept–reject sampling, importance sampling, and specialized methods for generating Gamma and Cauchy-related distributions. I derived optimal envelope constants, assessed proposal suitability, and validated theoretical results using Monte Carlo experiments in R. The work combines analytical derivations, handwritten proofs, and computational visualization to compare target and proposal densities, evaluate estimator accuracy, and simulate multivariate normals via transformation methods.
+
+[View Project PDF](102c1.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {style="flex:1 1 260px; background:#f0fff7; border:1px solid #b8e8c7; padding:18px 20px; border-radius:16px; box-shadow:0 4px 10px rgba(0,0,0,0.03);"}
+### MLB Pitcher Injury Risk — STAT 140XP Final Report
+
+A statistical analysis of short-term injury risk among Major League Baseball pitchers. Our team merged MLB performance data with detailed historical injury records to examine whether past injury frequency (cum_occur_dl) predicts future injured-list appearances within 14, 30, and 60 day windows. Using a combined framework of exploratory data analysis, chi-square tests, logistic regression, and Tukey post-hoc comparisons, we evaluated both categorical and continuous models of injury history.
+
+While prior injury history was statistically significant across all time windows, effect sizes were consistently small, indicating that historical injury count alone is not a strong standalone predictor of pitcher health. The project highlights the need to incorporate biomechanics, workload metrics, pitch volume, and recovery data for more accurate assessment of short-term injury risk.
+
+[View Full Report](140Fpdf){.btn .btn-primary target="_blank"}
+:::
+
+:::

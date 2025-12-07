@@ -1,6 +1,9 @@
+
 project:
   type: website
   output-dir: docs
+  resources:
+    - NW_RESUME.pdf
 
 website:
   title: "neva140"
@@ -8,7 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -19,3 +25,4 @@ format:
     toc: true
 
 editor: visual
+
